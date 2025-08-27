@@ -9,6 +9,11 @@ const projects = [
         thumbnail: 'images/three-geojson.jpeg', 
         projectUrl: 'https://voice-less.github.io/react-three-geojson-globe/'
     },
+    {
+        title: 'Game of Life++',
+        thumbnail: 'images/game_of_life.jpeg', 
+        projectUrl: 'https://voice-less.github.io/game-of-life-plus-plus/'
+    },
 
 ];
 
