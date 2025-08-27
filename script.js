@@ -14,7 +14,11 @@ const projects = [
         thumbnail: 'images/game_of_life.jpeg', 
         projectUrl: 'https://voice-less.github.io/game-of-life-plus-plus/'
     },
-
+    {
+        title: 'Pathfinding Visualizer++',
+        thumbnail: 'images/pathfinding.jpeg', 
+        projectUrl: 'https://voice-less.github.io/pathfinding-visualizer/'
+    },
 ];
 
 const projectListContainer = document.getElementById('project-list');
