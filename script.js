@@ -19,6 +19,11 @@ const projects = [
         thumbnail: 'images/pathfinding.jpeg', 
         projectUrl: 'https://voice-less.github.io/pathfinding-visualizer/'
     },
+    {
+        title: 'Verlet Physics Engine',
+        thumbnail: 'images/verlet-engine.jpeg', 
+        projectUrl: 'https://voice-less.github.io/2d-verlet-physics-engine/'
+    },
 ];
 
 const projectListContainer = document.getElementById('project-list');
